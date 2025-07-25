@@ -8,7 +8,7 @@ Register hotkeys easily!
 
 ## Getting Started
 
-First, install `AS.HotKey.Wpf` or `AS.HotKey.WinForms`, and then import the corresponding namespace.
+First, install `Asjc.HotKey.Wpf` or `Asjc.HotKey.WinForms`, and then import the corresponding namespace.
 
 Quickly register hotkeys with just **one line** of code, such as:
 
